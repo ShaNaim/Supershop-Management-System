@@ -1,2 +1,4 @@
-# Super_Shop_Management_System
-A simple Desktop App Using C# .Net Framework
+# A Simple Super Shop Management System
+# University Project
+##### American International University, Bangladesh
+##### Project by Nazib Mahfuz , Sha Naim Shourov
